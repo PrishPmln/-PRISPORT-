@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/-PRISPORT-/static/css/main.717359cd.css",
+    "main.js": "/-PRISPORT-/static/js/main.21df5c23.js",
+    "static/js/787.46db965a.chunk.js": "/-PRISPORT-/static/js/787.46db965a.chunk.js",
+    "static/media/foto.jpg": "/-PRISPORT-/static/media/foto.4abc174f7bdeebd4f1ff.jpg",
+    "static/media/port2.jpg": "/-PRISPORT-/static/media/port2.5ad7ab204a02600e2bb8.jpg",
+    "static/media/port3.png": "/-PRISPORT-/static/media/port3.633c4dc99c4918b52af4.png",
+    "static/media/port1.png": "/-PRISPORT-/static/media/port1.af702d617fa7db0e573d.png",
+    "index.html": "/-PRISPORT-/index.html",
+    "main.717359cd.css.map": "/-PRISPORT-/static/css/main.717359cd.css.map",
+    "main.21df5c23.js.map": "/-PRISPORT-/static/js/main.21df5c23.js.map",
+    "787.46db965a.chunk.js.map": "/-PRISPORT-/static/js/787.46db965a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717359cd.css",
+    "static/js/main.21df5c23.js"
+  ]
+}
